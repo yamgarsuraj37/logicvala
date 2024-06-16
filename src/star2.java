@@ -39,6 +39,8 @@ public class star2 {
 
 		else{
 		System.out.println("recurring character not found " );
+		System.out.println("recurring character not found " );
+
 		}
 
 		}
